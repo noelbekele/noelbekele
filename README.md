@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @noelbekele
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning CS in DDU 
-- 💞️ I’m looking to collaborate on website development
+- 🌱 I currently a degree in CS and I'm learning new this ✨evrey day✨!
+- 💞️ I’m looking to collaborate on website development and app development
 - 📫 How to reach me nbekele8@gmail.com 
 
 <!---
